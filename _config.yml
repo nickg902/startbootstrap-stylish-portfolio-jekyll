@@ -19,8 +19,8 @@ description: Cyber Security Events, Meetups and Networking.
 
 keywords: Cyber Security, Atlantic Canada
 
-baseurl: "https://cyberatlantic.ca" # the subpath of your site, e.g. /blog
-url: "https://cyberatlantic.ca" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "https://nickg902.github.io/startbootstrap-stylish-portfolio-jekyll" # the subpath of your site, e.g. /blog
+url: "https://nickg902.github.io/startbootstrap-stylish-portfolio-jekyll" # the base hostname & protocol for your site, e.g. http://example.com
 
 github_username:  nickg902
 google_analytics_tracking_id: UA-129738661-1
